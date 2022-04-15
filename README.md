@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @M0hi
 - 👀 I’m interested in gamedev
-- 🌱 I’m currently learning how to code mechanics
+- 🌱 I’m currently learning how to code some mechanics and other stuff
 - 💞️ I’m looking to collaborate on creating games with another people
 
 <!---
